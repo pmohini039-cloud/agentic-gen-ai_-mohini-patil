@@ -13,6 +13,7 @@ This repository contains my daily Python practice programs as I learn and improv
 * Loops
 * Data Structures (List, Tuple, Set, Dictionary)
 * Libraries (NumPy, Pandas, Matplotlib)
+* Data Visualization (Basic to Advanced)
 *others (math module,number system)
 ---
 
@@ -21,6 +22,7 @@ This repository contains my daily Python practice programs as I learn and improv
 * Basics→ Fundamental Python concepts
 * Data-Structure → Lists, Tuples, Sets, Dictionary
 *Libraries → NumPy, Pandas, Matplotlib
+*Includes: advanced_visualization.ipynb (covers advanced plotting and data visualization techniques)
 *Others → Additional practice programs
 
 ---
