@@ -40,7 +40,8 @@ Libraries/
         → Iris dataset file
 
 Others/
-→ Additional practice programs
+-> additional practice program
+
 ---
 🌸 Iris EDA Project
 
